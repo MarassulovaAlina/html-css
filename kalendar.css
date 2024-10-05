@@ -1,0 +1,40 @@
+.name {
+    color: white;
+    background-color:darkblue;
+    border: 2px solid;
+    
+}
+.month {
+    background-color: white;
+    border: 2px solid;
+    width: 800px;
+    height: 500px;
+    margin-left: 250px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+}
+
+.book {
+    background-color: azure;
+    border: 2px solid;
+    width: 180px;
+    height: 150px;
+    font-size: small;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 300px;
+    margin-right: 100px;
+
+}
+
+.silver {
+    color: black;
+    background-color:blue;
+    border: 2px solid;
+    width: 250px;
+    height: 650px;
+    
+}
+.party {
+    color: red;
+}
